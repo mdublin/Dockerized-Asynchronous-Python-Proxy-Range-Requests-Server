@@ -1,6 +1,6 @@
 **http-proxy with demo app server, both built using aiohttp and asyncio**
 
-*note: this is not a complete proxy and test server, rather, this is just focused on range requests as a proof-of-principal for doing asynchronous byte streaming using the aiohttp HTTP client/server package for asyncio (PEP 3156).
+*note: this is not a complete proxy and test server, rather, this is just focused on range requests as a proof-of-principal for doing asynchronous byte streaming using the [aiohttp] (http://aiohttp.readthedocs.io/en/stable/) HTTP client/server package for asyncio ([PEP 3156] (https://www.python.org/dev/peps/pep-3156/)).
 
 To run, use Docker from inside parent directory:
 
